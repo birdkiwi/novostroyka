@@ -29,7 +29,7 @@
                         </a>
                     </div>
                     <p>
-                        <a href="#" class="buildings-block-grid-item-title">2 комнатная</a>
+                        <a href="#" class="buildings-block-grid-item-title border">2 комнатная</a>
                         <span class="buildings-block-grid-item-area">32.8 м²</span>
                     </p>
                     <p>
@@ -52,7 +52,7 @@
                         </a>
                     </div>
                     <p>
-                        <a href="#" class="buildings-block-grid-item-title">2 комнатная</a>
+                        <a href="#" class="buildings-block-grid-item-title border">2 комнатная</a>
                         <span class="buildings-block-grid-item-area">32.8 м²</span>
                     </p>
                     <p>
@@ -75,7 +75,7 @@
                         </a>
                     </div>
                     <p>
-                        <a href="#" class="buildings-block-grid-item-title">2 комнатная</a>
+                        <a href="#" class="buildings-block-grid-item-title border">2 комнатная</a>
                         <span class="buildings-block-grid-item-area">32.8 м²</span>
                     </p>
                     <p>
@@ -98,7 +98,7 @@
                         </a>
                     </div>
                     <p>
-                        <a href="#" class="buildings-block-grid-item-title">2 комнатная</a>
+                        <a href="#" class="buildings-block-grid-item-title border">2 комнатная</a>
                         <span class="buildings-block-grid-item-area">32.8 м²</span>
                     </p>
                     <p>
@@ -123,7 +123,7 @@
                         </a>
                     </div>
                     <p>
-                        <a href="#" class="buildings-block-grid-item-title">2 комнатная</a>
+                        <a href="#" class="buildings-block-grid-item-title border">2 комнатная</a>
                         <span class="buildings-block-grid-item-area">32.8 м²</span>
                     </p>
                     <p>
@@ -146,7 +146,7 @@
                         </a>
                     </div>
                     <p>
-                        <a href="#" class="buildings-block-grid-item-title">2 комнатная</a>
+                        <a href="#" class="buildings-block-grid-item-title border">2 комнатная</a>
                         <span class="buildings-block-grid-item-area">32.8 м²</span>
                     </p>
                     <p>
@@ -169,7 +169,7 @@
                         </a>
                     </div>
                     <p>
-                        <a href="#" class="buildings-block-grid-item-title">2 комнатная</a>
+                        <a href="#" class="buildings-block-grid-item-title border">2 комнатная</a>
                         <span class="buildings-block-grid-item-area">32.8 м²</span>
                     </p>
                     <p>
@@ -192,7 +192,7 @@
                         </a>
                     </div>
                     <p>
-                        <a href="#" class="buildings-block-grid-item-title">2 комнатная</a>
+                        <a href="#" class="buildings-block-grid-item-title border">2 комнатная</a>
                         <span class="buildings-block-grid-item-area">32.8 м²</span>
                     </p>
                     <p>

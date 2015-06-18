@@ -1,4 +1,4 @@
-<div class="modal fade" id="callback-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade feedback-modal" id="callback-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <form class="modal-content js-validate" action="#" method="POST">
             <div class="modal-body">

@@ -65,11 +65,11 @@
             <div class="building-block-overview">
                 <div class="building-block-overview-gallery">
                     <div class="fotorama" data-height="375" data-nav="thumbs" data-arrows="false" data-allowfullscreen="true" data-thumbwidth="50" data-thumbheight="50">
-                        <img src="http://lorempixel.com/1080/600/abstract" alt=""/>
-                        <img src="http://lorempixel.com/1080/600/animals" alt=""/>
-                        <img src="http://lorempixel.com/1080/600/business" alt=""/>
-                        <img src="http://lorempixel.com/1080/600/animals" alt=""/>
-                        <img src="http://lorempixel.com/1080/600/nature" alt=""/>
+                        <img src="http://lorempixel.com/667/376/abstract" alt=""/>
+                        <img src="http://lorempixel.com/667/376/animals" alt=""/>
+                        <img src="http://lorempixel.com/667/376/business" alt=""/>
+                        <img src="http://lorempixel.com/667/376/animals" alt=""/>
+                        <img src="http://lorempixel.com/667/376/nature" alt=""/>
                     </div>
                     <!--<a href="#" class="building-block-overview-gallery-expand"></a>-->
                 </div>

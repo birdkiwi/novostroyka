@@ -158,7 +158,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="column-1">
+                    <div class="column-1 from-to-column">
                         <label>Общая площадь, м²</label>
                         <div class="row">
                             <div class="col-xs-6">
@@ -169,7 +169,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="column-1">
+                    <div class="column-1 from-to-column">
                         <label>Цена, тыс. руб</label>
                         <div class="row">
                             <div class="col-xs-6">

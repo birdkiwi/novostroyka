@@ -200,9 +200,11 @@ $(document).on('click', '.building-block-overview-map-expand', function(){
     if (!$(this).hasClass('active')) {
         $(this).addClass('active');
         $('.building-block-overview').addClass('map-active');
+        $('.fotorama__fullscreen-icon').hide();
     } else {
         $(this).removeClass('active');
         $('.building-block-overview').removeClass('map-active');
+        $('.fotorama__fullscreen-icon').show();
     }
 
     $(".building-block-overview-map")
@@ -220,6 +222,37 @@ $(document).on('click', '.main-header-toggler-wrap', function() {
     $('.main-header-fixed').toggleClass('open');
 
     return false;
+});
+
+//Fixing scrollbar shift for fixed positioned header and footer
+$(document.body).on('show.bs.modal', function () {
+    console.log(this.clientHeight);
+    console.log(window.innerHeight);
+    if (this.clientHeight <= window.innerHeight) {
+        return;
+    }
+
+    var getScrollBarWidth = function () {
+        this.$body = $(document.body);
+        var scrollDiv = document.createElement('div');
+        scrollDiv.className = 'modal-scrollbar-measure';
+        this.$body.append(scrollDiv);
+        var scrollbarWidth = scrollDiv.offsetWidth - scrollDiv.clientWidth;
+        this.$body[0].removeChild(scrollDiv);
+        return scrollbarWidth;
+    };
+
+    var scrollbarWidth = getScrollBarWidth();
+    if (scrollbarWidth) {
+        $('.main-header-fixed.fixed, .main-footer').css('padding-right', scrollbarWidth);
+        $('.to-top-scroll.active').css('margin-right', scrollbarWidth);
+    }
+});
+
+$(document.body).on('hidden.bs.modal', function () {
+    $(document.body).css('padding-right', 0);
+    $('.main-header-fixed, .main-footer').css('padding-right', 0);
+    $('.to-top-scroll.active').css('margin-right', 0);
 });
 
 $(document).ready(function(){
