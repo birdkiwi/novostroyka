@@ -1,0 +1,30 @@
+{
+  "name": "novostroyka",
+  "version": "0.0.0",
+  "authors": [
+    "Alexey Toklovich <alexey@toklovich.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "lesshat": "~3.0.2",
+    "normalize-less": "*",
+    "jquery-validation": "~1.13.1",
+    "bootstrap": "~3.3.4",
+    "bootstrap-select": "~1.7.2",
+    "spin.js": "~2.3.0",
+    "fotorama": "~4.6.4",
+    "seiyria-bootstrap-slider": "~4.9.1",
+    "modernizr": "~2.8.3",
+    "jquery-maskedinput": "~1.4.1",
+    "NumericInput": "https://github.com/joshuadeleon/NumericInput.git#~1.0.0",
+    "animate.css": "~3.3.0"
+  }
+}
