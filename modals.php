@@ -176,7 +176,7 @@
                         <div class="building-info-contacts-phone">
                             <a href="tel:+73832631077"><small>+7 (383)</small> 263-10-77</a>
                         </div>
-                        <a href="#callback-modal" data-dismiss="modal" data-toggle="modal" class="building-info-contacts-btn btn btn-info btn-sm">Перезвоните мне</a>
+                        <a href="#" data-dismiss="modal" onclick="setTimeout(function(){ $('#callback-modal').modal(); }, 500);" class="building-info-contacts-btn btn btn-info btn-sm">Перезвоните мне</a>
                     </div>
                 </div>
             </div>
